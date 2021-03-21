@@ -9,7 +9,7 @@
 <body>
     <div class="nav-wrapper">
     <div class="topnav" id="theTopNav">
-        <a href="./home.php">HOME</a>
+        <a href="./index.php">HOME</a>
         <a href="./news.php">NEWS</a>
         <a href="./contact.php">CONTACT</a>
         <a href="./download.php">DOWNLOAD</a>
